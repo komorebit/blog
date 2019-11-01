@@ -1,0 +1,36 @@
+// Main Colors
+$primary-color: #1ABC9C;
+$secondary-color: #C19CD8;
+$highlight: #ffeea8;
+$text: #fffdd0;
+$gray-blue: #707890;
+$white: #ffffff;
+$black: #101010;
+$lighten-black: #323743;
+$blue-black: #000000;
+$blue-darken: #000000;
+$green-darken: #2C3635;
+$danger: #e02f40;
+$success: #34a74e;
+$white: #fffdd0;
+
+
+// Background Colors
+$background: $white;
+
+// Body Color
+$body-color: $white;
+
+// Headings
+$heading-font-color: #000000;
+
+// Links
+$link-color: $white;
+$link-color-hover: lighten($link-color, 15%);
+
+// Button
+$button-color: $white;
+$button-background-color: $primary-color;
+
+// Border
+$border-color: #000000;
