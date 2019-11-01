@@ -20,9 +20,9 @@
       line-height: 16px;
       text-transform: uppercase;
       letter-spacing: 5px;
-      color: $text;
+      color: $white;
       &:hover {
-        color: $text;
+        color: $white;
       }
     }
   }
@@ -63,7 +63,7 @@
     font-size: 30px;
     font-weight: 700;
     line-height: 60px;
-    color: $text;
+    color: $white;
     &:before {
       content: '';
       position: absolute;
@@ -208,7 +208,7 @@
   }
   .article-content-first {
     padding: 20px;
-    color: $text;
+    color: $white;
     .article-tag {
       .tag {
         color: $primary-color;
